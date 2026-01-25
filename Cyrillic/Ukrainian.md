@@ -1,4 +1,4 @@
-# Pattern A (One-by-one)
+# Rule A (One-to-one)
 | Cyrillic | Latinized |
 | :------: | :-------: |
 |   А а    |    A a    |
@@ -35,7 +35,7 @@
 |   Ю ю    |    Û û    |
 |   Я я    |    Â â    |
 
-# Pattern B (Readability-focused)
+# Rule B (Readability-focused)
 | Cyrillic | Latinized |
 | :------: | :-------: |
 |   А а    |    A a    |

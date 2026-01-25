@@ -6,5 +6,5 @@ This work is released under **CC0 1.0 Universal**, so you are free to use it, mo
 It comes with **no warranty**, and the repository may be **discontinued** without notice.
 
 ## Cyrillic
-🇷🇺 Russian (2 patterns): [Cyrillic / Russian](./Cyrillic/Russian.md)
-🇺🇦 Ukrainian (2 patterns): [Cyrillic / Ukrainian](./Cyrillic/Ukrainian.md)
+🇷🇺 Russian (2 rules): [Cyrillic / Russian](./Cyrillic/Russian.md)
+🇺🇦 Ukrainian (2 rules): [Cyrillic / Ukrainian](./Cyrillic/Ukrainian.md)
