@@ -35,7 +35,7 @@
 |   Ю ю    |    Û û    |
 |   Я я    |    Â â    |
 
-# Pattern B (Readable-focused)
+# Pattern B (Readability-focused)
 | Cyrillic | Latinized |
 |:--------:|:---------:|
 |   А а    |    A a    |
