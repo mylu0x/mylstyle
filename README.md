@@ -7,3 +7,4 @@ It comes with **no warranty**, and the repository may be **discontinued** withou
 
 ## Cyrillic
 🇷🇺 Russian (2 patterns): [Cyrillic / Russian](./Cyrillic/Russian.md)
+🇺🇦 Ukrainian (2 patterns): [Cyrillic / Ukrainian](./Cyrillic/Ukrainian.md)
