@@ -7,8 +7,8 @@ It comes with **no warranty**, and the repository may be **discontinued** withou
 
 ## Cyrillic
 1. Russian
-	1. [Russian A (One-to-one)](./Cyrillic/Russian#Rule A (One-to-one)) Code: `myls-ru-a`
-	2. [Russian B (Readability-focused)](./Cyrillic/Russian#Rule B (Readability-focused)) Code: `myls-ru-b`
+	1. [Russian A (One-to-one)](./Cyrillic/Russian#Rule A (One-to-one)) Code: `myls-ru-a` or `myls_ru_a`
+	2. [Russian B (Readability-focused)](./Cyrillic/Russian#Rule B (Readability-focused)) Code: `myls-ru-b` or `myls_ru_b`
 2. Ukrainian
-	1. [Ukrainian A (One-to-one)](./Cyrillic/Ukrainian#Rule A (One-to-one)) Code: `myls-uk-a`
-	2. [Ukrainian B (Readability-focused)](./Cyrillic/Ukrainian#Rule B (Readability-focused)) Code: `myls-uk-b`
+	1. [Ukrainian A (One-to-one)](./Cyrillic/Ukrainian#Rule A (One-to-one)) Code: `myls-uk-a`  or `myls_uk_a`
+	2. [Ukrainian B (Readability-focused)](./Cyrillic/Ukrainian#Rule B (Readability-focused)) Code: `myls-uk-b`  or `myls_uk_b`
