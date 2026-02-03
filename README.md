@@ -15,3 +15,6 @@ It comes with **no warranty**, and the repository may be **discontinued** withou
 3. Kazakh
 	1. [Kazakh A (One-to-One)](./Cyrillic/3. Kazakh#Rule A (One-to-One)) id: `myls-kk-a`  or `myls_kk_a`
 	2. [Kazakh B (Readability-focused)](./Cyrillic/3. Kazakh#Rule B (Readability-focused)) id: `myls-kk-b`  or `myls_kk_b`
+4. Tajik
+	1. [Tajik A (One-to-One)](./Cyrillic/4. Tajik#Rule A (One-to-One)) id: `myls-kk-a`  or `myls_kk_a`
+	2. [Tajik B (Readability-focused)](./Cyrillic/4. Tajik#Rule B (Readability-focused)) id: `myls-tg-b`  or `myls_tg_b`
